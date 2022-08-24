@@ -1,4 +1,4 @@
-### Olá galera! Em preve o nosso primeiro projeto será criado. 👋
+### Olá galera! Em breve o nosso primeiro projeto será criado. 👋
 
 <!--
 **10complicando/10complicando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
